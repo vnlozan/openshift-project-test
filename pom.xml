@@ -57,6 +57,7 @@
         </pluginRepository>
     </pluginRepositories>
     <profiles>
+
         <profile>
             <id>openshift</id>
         </profile>
