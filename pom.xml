@@ -56,4 +56,9 @@
             <url>https://repo.spring.io/libs-release</url>
         </pluginRepository>
     </pluginRepositories>
+    <profiles>
+        <profile>
+            <id>rest-server</id>
+        </profile>
+    </profiles>
 </project>
