@@ -58,7 +58,7 @@
     </pluginRepositories>
     <profiles>
         <profile>
-            <id>rest-server</id>
+            <id>openshift</id>
         </profile>
     </profiles>
 </project>
